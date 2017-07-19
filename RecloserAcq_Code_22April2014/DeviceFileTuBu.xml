@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecloserBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <Id>6</Id>
+    <Port>9010</Port>
+    <Name>Tu Bu test</Name>
+    <Location>60 Ng Din Chieu</Location>
+    <AlertFile>C:\Users\Administrator\Desktop\TestRecloser\Windows Exclamation.wav</AlertFile>
+    <Enable>true</Enable>
+  </RecloserBase>
+</ArrayOfRecloserBase>

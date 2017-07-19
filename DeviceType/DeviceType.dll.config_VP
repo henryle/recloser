@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="DeviceType.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <DeviceType.Properties.Settings>
+            <setting name="oracleconnectionstring" serializeAs="String">
+                <value>User Id=mimic01;Password=MIMIC01;Data Source=(DESCRIPTION =    (ADDRESS_LIST =      (ADDRESS = (PROTOCOL = TCP)(HOST = servermimicPcVP)(PORT = 1521))    )    (CONNECT_DATA =      (SERVICE_NAME = MIMIC2)    )  )</value>
+            </setting>
+        </DeviceType.Properties.Settings>
+    </userSettings>
+</configuration>

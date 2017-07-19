@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecloserBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9114</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9114</Port>
+    <DeviceID>9114</DeviceID>
+    <Serveraddress>10.175.89.114</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>179/8</Name>
+    <Location>KCN Giao Long</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9115</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9115</Port>
+    <DeviceID>9115</DeviceID>
+    <Serveraddress>10.175.89.115</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>180</Name>
+    <Location>KCN Giao Long</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9106</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9106</Port>
+    <DeviceID>9106</DeviceID>
+    <Serveraddress>10.175.89.106</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>193</Name>
+    <Location>Binh Dai - An Hoa</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9116</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9116</Port>
+    <DeviceID>9116</DeviceID>
+    <Serveraddress>10.175.89.116</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>210</Name>
+    <Location>KCN Giao Long</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="Nulec">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>8117</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>8117</Port>
+    <DeviceID>8117</DeviceID>
+    <Serveraddress>10.175.88.117</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>3000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>38</Name>
+    <Location>KCN Giao Long</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9107</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9107</Port>
+    <DeviceID>9107</DeviceID>
+    <Serveraddress>10.175.89.107</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>95</Name>
+    <Location>Binh Dai - An Hoa</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9108</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9108</Port>
+    <DeviceID>9108</DeviceID>
+    <Serveraddress>10.175.89.108</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>63</Name>
+    <Location>Binh Dai - An Hoa</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9109</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9109</Port>
+    <DeviceID>9109</DeviceID>
+    <Serveraddress>10.175.89.109</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>40</Name>
+    <Location>Binh Dai - An Hoa</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9110</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9110</Port>
+    <DeviceID>9110</DeviceID>
+    <Serveraddress>10.175.89.110</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>07</Name>
+    <Location>Binh Dai - Thi Tran</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9111</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9111</Port>
+    <DeviceID>9111</DeviceID>
+    <Serveraddress>10.175.89.111</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>30</Name>
+    <Location>nhanh re Viet Tien</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="Elster1700">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>1101</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>1101</Port>
+    <DeviceID>1101</DeviceID>
+    <DeviceAddress>001</DeviceAddress>
+    <Password>M_KH_DOC</Password>
+    <Serveraddress>10.175.90.101</Serveraddress>
+    <Client>false</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>110</Name>
+    <Location>Elster 110 CThanh</Location>
+    <Enable>true</Enable>
+    <incorrectpassword>true</incorrectpassword>
+    <BaudRate>9600</BaudRate>
+    <DeviceTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="CooperFXB">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>8107</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>8107</Port>
+    <DeviceID>8107</DeviceID>
+    <Serveraddress>10.175.88.107</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>93</Name>
+    <Location>Binh Dai - An Hoa</Location>
+    <Enable>true</Enable>
+  </RecloserBase>
+  <RecloserBase xsi:type="Elster1700">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>1103</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>1103</Port>
+    <DeviceID>1103</DeviceID>
+    <DeviceAddress>001</DeviceAddress>
+    <Password>11111111</Password>
+    <Serveraddress>10.175.90.103</Serveraddress>
+    <Client>false</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>156</Name>
+    <Location>DKe Binh Dai - An Hoa</Location>
+    <Enable>true</Enable>
+    <incorrectpassword>true</incorrectpassword>
+    <BaudRate>9600</BaudRate>
+    <DeviceTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="Elster1700">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>1104</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>1104</Port>
+    <DeviceID>1104</DeviceID>
+    <DeviceAddress>001</DeviceAddress>
+    <Password>11111111</Password>
+    <Serveraddress>10.175.90.104</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>3000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>10000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>51</Name>
+    <Location>DKe Binh Dai - An Hoa</Location>
+    <Enable>true</Enable>
+    <incorrectpassword>true</incorrectpassword>
+    <BaudRate>9600</BaudRate>
+    <DeviceTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DisableAlert>false</DisableAlert>
+    <controlbyNo_Cosphi_Q>No</controlbyNo_Cosphi_Q>
+    <shutdownalert>false</shutdownalert>
+    <Alertprogram>false</Alertprogram>
+    <Maxampduration>0</Maxampduration>
+    <MinAmp>0</MinAmp>
+    <VolStandard>0</VolStandard>
+    <Volpercent>0</Volpercent>
+    <MaxAmp>0</MaxAmp>
+    <Id>9117</Id>
+    <MaxQClose>0</MaxQClose>
+    <Port>9122</Port>
+    <Serveraddress>10.175.89.122</Serveraddress>
+    <Client>true</Client>
+    <Latencybetweenrequest>2000</Latencybetweenrequest>
+    <LatencySaveHistory>300000</LatencySaveHistory>
+    <Latencybetweenpoll>150000</Latencybetweenpoll>
+    <AmpPercent>0</AmpPercent>
+    <Name>35</Name>
+    <Location>Binh Dai - Thoi Thuan</Location>
+    <Enable>false</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualCloseTime xsi:nil="true" />
+    <LatestManualOpenTime xsi:nil="true" />
+  </RecloserBase>
+</ArrayOfRecloserBase>

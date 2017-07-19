@@ -1,0 +1,1 @@
+User Id=mimic01;Password=MIMIC01;Data Source=(DESCRIPTION =    (ADDRESS_LIST =      (ADDRESS = (PROTOCOL = TCP)(HOST = servermimicPcVP)(PORT = 1521))    )    (CONNECT_DATA =      (SERVICE_NAME = MIMIC2)    )  )

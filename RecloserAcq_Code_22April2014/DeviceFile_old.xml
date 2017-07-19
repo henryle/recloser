@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecloserBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <RecloserBase xsi:type="Nulec">
+    <Id>2</Id>
+    <Port>9005</Port>
+    <Name>Nulec 1</Name>
+    <Enable>true</Enable>
+    <AlertFile>C:\Users\Administrator\Desktop\TestRecloser\ding.wav</AlertFile>
+  </RecloserBase>
+</ArrayOfRecloserBase>

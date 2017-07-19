@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DeviceType.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="oracleconnectionstring" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User Id=mimic01;Password=mimic01mm1;Data Source=(DESCRIPTION =    (ADDRESS_LIST =      (ADDRESS = (PROTOCOL = TCP)(HOST = 10.175.88.100)(PORT = 1521))    )    (CONNECT_DATA =      (SERVICE_NAME = MIMIC1)    )  )</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

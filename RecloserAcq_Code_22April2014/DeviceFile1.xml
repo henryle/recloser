@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecloserBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <?xml version="1.0" encoding="utf-8"?>
+  <ArrayOfRecloserBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <RecloserBase xsi:type="CooperFXB">
+      <Testing>0</Testing>
+      <Id>1</Id>
+      <Port>9000</Port>
+      <Name>Cooper 1</Name>
+      <Location>07 Hoa dua</Location>
+      <AlertFile>C:\Users\Administrator\Desktop\TestRecloser\Windows Exclamation.wav</AlertFile>
+      <Enable>false</Enable>
+    </RecloserBase>
+    <RecloserBase xsi:type="Nulec">
+      <Testing>0</Testing>
+      <Id>2</Id>
+      <Port>9001</Port>
+      <Name>Nulec 2</Name>
+      <Location>110 Chau thanh</Location>
+      <AlertFile>C:\Users\Administrator\Desktop\TestRecloser\chord.wav</AlertFile>
+      <Enable>true</Enable>
+      <StartPackage />
+      <DeviceTime xsi:nil="true" />
+    </RecloserBase>
+    <RecloserBase xsi:type="Nulec">
+      <Testing>0</Testing>
+      <Id>6</Id>
+      <Port>9005</Port>
+      <Name>Nulec 6</Name>
+      <Location>168 KCN Giao Long</Location>
+      <AlertFile>C:\Users\Administrator\Desktop\TestRecloser\chord.wav</AlertFile>
+      <Enable>false</Enable>
+      <StartPackage />
+      <DeviceTime xsi:nil="true" />
+    </RecloserBase>
+    <RecloserBase xsi:type="CooperFXB">
+      <Testing>0</Testing>
+      <Id>3</Id>
+      <Port>9002</Port>
+      <Name>Cooper 3</Name>
+      <Location>210 Tan Thanh HD PN</Location>
+      <AlertFile>C:\Users\Administrator\Desktop\TestRecloser\Windows Exclamation.wav</AlertFile>
+      <Enable>false</Enable>
+    </RecloserBase>
+    <RecloserBase xsi:type="CooperFXB">
+      <Testing>0</Testing>
+      <Id>4</Id>
+      <Port>9003</Port>
+      <Name>Cooper 4</Name>
+      <Location>85 Tan Thanh Tien Thuy</Location>
+      <AlertFile>C:\Users\Administrator\Desktop\TestRecloser\Windows Exclamation.wav</AlertFile>
+      <Enable>false</Enable>
+    </RecloserBase>
+    <RecloserBase xsi:type="CooperFXB">
+      <Testing>0</Testing>
+      <Id>5</Id>
+      <Port>9004</Port>
+      <Name>Cooper 5</Name>
+      <Location>60 Tan Thanh MTA Son Doc</Location>
+      <AlertFile>C:\Users\Administrator\Desktop\TestRecloser\Windows Exclamation.wav</AlertFile>
+      <Enable>false</Enable>
+    </RecloserBase>
+  </ArrayOfRecloserBase>
+</ArrayOfRecloserBase>

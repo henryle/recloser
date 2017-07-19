@@ -1,0 +1,22 @@
+ORACLR_CONNECTION_DATA =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = IPC)(KEY = EXTPROC1521))
+    )
+    (CONNECT_DATA =
+      (SID = CLRExtProc)
+      (PRESENTATION = RO)
+    )
+  )
+
+MIMIC1 =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 10.175.88.100)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = MIMIC1)
+    )
+  )
+
+User Id=mimic01;Password=mimic01mm1;Data Source=(DESCRIPTION =    (ADDRESS_LIST =      (ADDRESS = (PROTOCOL = TCP)(HOST = 10.175.88.100)(PORT = 1521))    )    (CONNECT_DATA =      (SERVICE_NAME = MIMIC1)    )  )

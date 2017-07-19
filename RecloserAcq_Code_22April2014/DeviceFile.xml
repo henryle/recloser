@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecloserBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecloserBase xsi:type="Nulec">
+    <Testing>0</Testing>
+    <Id>0</Id>
+    <DeviceID>001</DeviceID>
+    <Port>9100</Port>
+    <Name>Tu Bu 210</Name>
+    <Location>Tru 210 - KCN GL</Location>
+    <Enable>true</Enable>
+    <TuBuClose></TuBuClose>
+    <TuBuOpen></TuBuOpen>
+    <MaxClose></MaxClose>
+    <MinOpen></MinOpen>
+    <DeviceTime xsi:nil="true" />
+  </RecloserBase>
+  <RecloserBase xsi:type="TuBu">
+    <Testing>0</Testing>
+    <DeviceID>001</DeviceID>
+    <Id>0</Id>
+    <Port>9200</Port>
+    <Name>Tu Bu 210</Name>
+    <Location>Tru 210 - KCN GL</Location>
+    <Enable>true</Enable>
+    <DeviceTime xsi:nil="true" />
+    <LatestOpenTime xsi:nil="true" />
+    <LatestCloseTime xsi:nil="true" />
+    <LatestManualOperationTime xsi:nil="true" />
+  </RecloserBase>
+</ArrayOfRecloserBase>
